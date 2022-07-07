@@ -1,0 +1,1 @@
+In this folder, I'll be using various Deep Learning algorithms to predict the NIFTY closing values, which will be more accurate than using ML. 
